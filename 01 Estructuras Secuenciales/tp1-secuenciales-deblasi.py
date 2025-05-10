@@ -106,5 +106,3 @@ promedio = (numero1 + numero2 + numero3) / 3
 
 # Imprimir el resultado
 print(f"El promedio de los tres números es: {promedio:.2f}")
-
-
